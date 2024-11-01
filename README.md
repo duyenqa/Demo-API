@@ -19,6 +19,6 @@ npm start
 ```
 
 ## APIs
-1. [Register user](https://reqres.in)
+1. [Register user](https://reqres.in/api/register)
 
-2. [Login user](https://reqres.in)
+2. [Login user](https://reqres.in/api/login)
