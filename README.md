@@ -19,6 +19,11 @@ npm start
 ```
 
 ## APIs
-1. [Register user](https://reqres.in/api/register)
+**1. User authentication**
+- [Register](https://reqres.in/api/register)
 
-2. [Login user](https://reqres.in/api/login)
+- [Login](https://reqres.in/api/login)
+
+**2. E-Commerce**
+
+- [Products](https://api.escuelajs.co/api/v1/products)
