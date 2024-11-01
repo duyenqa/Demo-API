@@ -19,7 +19,7 @@ async function main() {
         const loginResponse = await loginUser(credentials);
         console.log('Login successful:', loginResponse);
     } catch (error) {
-        console.error('Error in registration:', error);
+        console.error(error);
     }
 };
 
