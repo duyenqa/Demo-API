@@ -1,4 +1,4 @@
-import axiosClient from './axiosClient.js'; // Ensure the import path is correct
+import axiosClient from './axiosClient.js';
 
 export async function registerUser(userData) {
     try {
