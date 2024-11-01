@@ -24,6 +24,6 @@ npm start
 
 - [Login](https://reqres.in/api/login)
 
-**2. E-Commerce**
+**2. News**
 
-- [Products](https://api.escuelajs.co/api/v1/products)
+- [Articles](https://jsonplaceholder.typicode.com/posts)
