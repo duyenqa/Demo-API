@@ -17,3 +17,8 @@ npm install axios
 ```txt
 npm start
 ```
+
+## APIs
+1. [Register user](https://reqres.in)
+
+2. [Login user](https://reqres.in)
