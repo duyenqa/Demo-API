@@ -20,9 +20,9 @@ npm start
 
 ## APIs
 **1. User authentication**
-- [Register](https://reqres.in/api/register)
+- [Register](https://reqres.in)
 
-- [Login](https://reqres.in/api/login)
+- [Login](https://reqres.in)
 
 **2. News**
 
